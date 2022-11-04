@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Gulshan sharma 
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning Data structure and gaining problem solving skil
-- 📫 you can contact through :- gulkumar8138108@gmail.com
+Hi there 👋
+ 
+ - 👀 I’m interested in software development
+ - 🌱 I’m currently working on data structure and problem solving skill
+ - 📫 How to reach me : gulkumar8138108@gmail.com
